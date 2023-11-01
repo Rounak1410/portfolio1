@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../jar 2"
+		},
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../rounak portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jar 2"
+	}
+}
